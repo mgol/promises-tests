@@ -5,6 +5,8 @@
 
 # Promises/A+ Compliance Test Suite
 
+_**NOTE**: This is a fork of the upstream https://github.com/promises-aplus/promises-tests. The main changes are removing underscore & updating other dependencies. The package is renamed to `@mgol/promises-aplus-tests`; to install it, use `"promises-aplus-tests": "npm:@mgol/promises-aplus-tests@^VERSION"`._
+
 This suite tests compliance of a promise implementation with the [Promises/A+ specification][].
 
 [Promises/A+ specification]: https://github.com/promises-aplus/promises-spec

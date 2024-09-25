@@ -1,12 +1,12 @@
 {
-    "name": "promises-aplus-tests",
+    "name": "@mgol/promises-aplus-tests",
     "description": "Compliance test suite for Promises/A+",
     "keywords": ["promises", "promises-aplus"],
-    "version": "2.1.2",
+    "version": "2.1.2-mgol.1",
     "implements": ["Promises/A+ 1.1.0"],
     "author": "Domenic Denicola <d@domenic.me> (https://domenic.me)",
     "license": "WTFPL",
-    "repository": "promises-aplus/promises-tests",
+    "repository": "mgol/promises-tests",
     "main": "lib/programmaticRunner.js",
     "bin": "lib/cli.js",
     "files": [
