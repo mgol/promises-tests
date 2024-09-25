@@ -18,11 +18,11 @@
         "prepublish": "node ./scripts/generateTestFiles.js"
     },
     "dependencies": {
-        "mocha": "^2.5.3",
+        "mocha": "^10.7.3",
         "sinon": "^19.0.2"
     },
     "devDependencies": {
-        "jshint": "^2.9.2"
+        "jshint": "^2.13.6"
     },
     "browser": {
         "mocha": false
